@@ -1,0 +1,10 @@
+h1{
+    color: orange;
+    font-family: 'Gentium Book Plus', serif;
+}
+body{
+    background: linear-gradient( yellow,orange,red);
+    height: 800px;
+    font-family: 'Gentium Book Plus', serif;
+    font-family: 'Roboto', sans-serif;
+}
